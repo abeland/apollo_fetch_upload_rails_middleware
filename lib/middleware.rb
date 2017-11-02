@@ -1,5 +1,5 @@
 module ApolloFetchUploadRailsMiddleware
-  class Foo
+  class Middleware
     def initialize(app)
       @app = app
     end
