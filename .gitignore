@@ -24,3 +24,5 @@ flow-typed/npm/*
 .DS_STORE
 
 *~
+
+Gemfile.lock

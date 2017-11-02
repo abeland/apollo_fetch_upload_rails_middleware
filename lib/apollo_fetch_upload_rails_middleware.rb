@@ -1,3 +1,3 @@
-require 'version'
-require 'middleware'
-require 'railtie' if defined?(Rails::Railtie)
+require 'apollo_fetch_upload_rails_middleware/middleware'
+require 'apollo_fetch_upload_rails_middleware/railtie'
+require 'apollo_fetch_upload_rails_middleware/version'
