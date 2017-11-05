@@ -1,4 +1,4 @@
-# ApolloFetchUploadRailsMiddleware
+# Apollo Fetch Upload Rails Middleware
 
 ## Installation
 
@@ -8,9 +8,9 @@ Add this line to your application's Gemfile:
 gem 'apollo_fetch_upload_rails_middleware'
 ```
 
-And then execute:
+And then do:
 
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-I'll find something to put here.
+Using `Railtie`, this gem installs its middleware in your application. It will populate the GraphQL mutation inputs with the appropriate file metadata as described in the [apollo-fetch-upload](https://github.com/apollographql/apollo-fetch/tree/master/packages/apollo-fetch-upload) documentation.
 
 ## Contributing
 
