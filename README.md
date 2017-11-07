@@ -1,4 +1,4 @@
-# Apollo Fetch Upload Rails Middleware
+# [Apollo Fetch Upload Rails Middleware](http://abe.land/ruby/rails/code/2017/11/05/rails-apollo-fetch-upload-middleware.html)
 
 **NOTE: This does not support batching!**
 
