@@ -1,5 +1,7 @@
 # Apollo Fetch Upload Rails Middleware
 
+NOTE: This does not support batching!
+
 ## Installation
 
 Add this line to your application's Gemfile:
