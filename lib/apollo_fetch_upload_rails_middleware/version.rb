@@ -1,3 +1,3 @@
 module ApolloFetchUploadRailsMiddleware
-  VERSION = '0.1.0-alpha'.freeze
+  VERSION = '0.1.0.alpha'.freeze
 end
