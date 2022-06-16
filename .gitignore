@@ -26,3 +26,5 @@ flow-typed/npm/*
 *~
 
 Gemfile.lock
+
+/.idea
